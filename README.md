@@ -1,1 +1,1 @@
-# JavaBasics
+# javaNotes
